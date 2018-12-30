@@ -1,0 +1,1389 @@
+# newpar
+# sent_id = 1
+# text = # time_begin = 0:13
+1	#	#	PUNCT	_	_	2	punct	_	SpacesBefore=\n
+2	time_begin	time_begiн-лат	NOUN	_	_	0	root	_	_
+3	=	=	SYM	_	_	2	nmod	_	_
+4	0	0	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	13	13	NUM	_	_	4	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = я родилась
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	родилась	рождаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 4
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 5
+# text = в прекрасном
+1	в	в	ADP	_	_	2	case	_	_
+2	прекрасном	прекрасный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = светлом
+1	светлом	светлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 8
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 9
+# text = городе
+1	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 10
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 11
+# text = столице ещё более прекрасной светлой республики Хакассии
+1	столице	столица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
+2	ещё	еще	ADV	_	Degree=Pos	3	advmod	_	_
+3	более	более	ADV	_	Degree=Cmp	6	nummod:gov	_	_
+4	прекрасной	прекрасный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+5	светлой	светлый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	республики	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+7	Хакассии	Хакасия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 12
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = столица Хакассии называется Абакан / с хакасского это переводится как / абр хан / абр кровь / хан медведя / как кровь медведя потому что / существует легенда / что / известный богатырь хакасский / Xобый / кстати от него пошёл / наш род Боргояковых
+1	столица	столица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Хакассии	Хакасия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	Абакан	Абакан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	obl	_	_
+5	/	/	PUNCT	_	_	9	punct	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	хакасского	хакасский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	obl	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj:pass	_	_
+9	переводится	переводиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	_
+10	как	как	SCONJ	_	_	12	mark	_	_
+11	/	/	PUNCT	_	_	12	punct	_	_
+12	абр	абр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	advcl	_	_
+13	хан	хан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nmod	_	_
+14	/	/	PUNCT	_	_	15	punct	_	_
+15	абр	абр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	appos	_	_
+16	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nmod	_	_
+17	/	/	PUNCT	_	_	18	punct	_	_
+18	хан	хан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	appos	_	_
+19	медведя	медведь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	/	/	PUNCT	_	_	22	punct	_	_
+21	как	как	SCONJ	_	_	22	mark	_	_
+22	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nmod	_	_
+23	медведя	медведь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	потому	потому	ADV	_	Degree=Pos	27	mark	_	_
+25	что	что	SCONJ	_	_	24	fixed	_	_
+26	/	/	PUNCT	_	_	24	punct	_	_
+27	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+28	легенда	легенда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+29	/	/	PUNCT	_	_	30	punct	_	_
+30	что	что	SCONJ	_	_	28	acl	_	_
+31	/	/	PUNCT	_	_	30	punct	_	_
+32	известный	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	богатырь	богатырь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+34	хакасский	хакасский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	acl	_	_
+35	/	/	PUNCT	_	_	34	punct	_	_
+36	Xобый	Xобый	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	obl	_	_
+37	/	/	PUNCT	_	_	41	punct	_	_
+38	кстати	кстати	ADV	_	Degree=Pos	41	parataxis	_	_
+39	от	от	ADP	_	_	40	case	_	_
+40	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	41	obl	_	_
+41	пошёл	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	conj	_	_
+42	/	/	PUNCT	_	_	41	punct	_	_
+43	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	44	det	_	_
+44	род	род	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	_
+45	Боргояковых	Боргояков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = это / предок / в седьмом или в восьмом колене моего / прадеда
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	предок	предок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	/	/	PUNCT	_	_	6	punct	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	седьмом	седьмой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+7	или	или	CCONJ	_	_	10	cc	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	восьмом	восьмой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	колене	колено	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	conj	_	_
+11	моего	мой	DET	_	Case=Gen|Gender=Masc|Number=Sing	13	det	_	_
+12	/	/	PUNCT	_	_	13	punct	_	_
+13	прадеда	прадед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 16
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = ааа убил / на этом месте / самого большого медведя который очень долго терроризировал наш народ
+1	ааа	аа	X	_	_	_	_	_	_
+2	убил	убить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	/	/	PUNCT	_	_	2	punct	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	6	det	_	_
+6	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
+7	/	/	PUNCT	_	_	10	punct	_	_
+8	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	большого	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	медведя	медведь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+11	который	который	PRON	_	Case=Nom	14	nsubj	_	_
+12	очень	очень	ADV	_	Degree=Pos	13	advmod	_	_
+13	долго	долго	ADV	_	Degree=Pos	14	advmod	_	_
+14	терроризировал	терроризировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+15	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	16	det	_	_
+16	народ	народ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 18
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = на самом деле в Хакассии очень много / преданий / легенд / и / интересных очень историй / особенно религиозных
+1	на	на	ADP	_	_	3	case	_	_
+2	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	Хакассии	Хакасия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+6	очень	очень	ADV	_	Degree=Pos	7	advmod	_	_
+7	много	много	ADV	_	Degree=Pos	0	root	_	_
+8	/	/	PUNCT	_	_	9	punct	_	_
+9	преданий	предание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	obl	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	легенд	легенда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+12	/	/	PUNCT	_	_	17	punct	_	_
+13	и	и	PART	_	_	17	cc	_	_
+14	/	/	PUNCT	_	_	17	punct	_	_
+15	интересных	интересный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+16	очень	очень	ADV	_	Degree=Pos	17	obl	_	_
+17	историй	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
+18	/	/	PUNCT	_	_	20	punct	_	_
+19	особенно	особенно	ADV	_	Degree=Pos	20	obl	_	_
+20	религиозных	религиозный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 20
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 21
+# text = м.. потому что / культура Хакассии уходит / корнями глубоко в / древность / и / глубоко в / восточные / в в / в центрально-восточные мотивы / вот так
+1	м	м	X	_	_	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	потому	потому	ADV	_	Degree=Pos	9	mark	_	_
+5	что	что	SCONJ	_	_	4	fixed	_	_
+6	/	/	PUNCT	_	_	4	punct	_	_
+7	культура	культура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+8	Хакассии	Хакасия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	уходит	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	/	/	PUNCT	_	_	9	punct	_	_
+11	корнями	корень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	obl	_	_
+12	глубоко	глубоко	ADV	_	Degree=Pos	15	obl	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	/	/	PUNCT	_	_	13	punct	_	_
+15	древность	древность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+16	/	/	PUNCT	_	_	22	punct	_	_
+17	и	и	CCONJ	_	_	22	cc	_	_
+18	/	/	PUNCT	_	_	22	punct	_	_
+19	глубоко	глубоко	ADV	_	Degree=Pos	22	obl	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	/	/	PUNCT	_	_	22	punct	_	_
+22	восточные	восточный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	conj	_	_
+23	/	/	PUNCT	_	_	25	punct	_	_
+24	в	в	X	_	_	_	_	_	_
+25	в	в	X	_	_	_	_	_	_
+26	/	/	PUNCT	_	_	29	punct	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	центрально-восточные	центрально-восточный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	29	amod	_	_
+29	мотивы	мотив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	25	nmod	_	_
+30	/	/	PUNCT	_	_	32	punct	_	_
+31	вот	вот	PART	_	_	32	advmod	_	_
+32	так	так	ADV	_	Degree=Pos	29	parataxis	_	SpacesAfter=\r\n\n
+
+# newpar
+# sent_id = 22
+# text = @ydm@
+1	@ydm@	@ydm@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 23
+# text = всё твоё детство прошло в Абакане ?
+1	всё	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+2	твоё	твое	DET	_	_	3	det	_	_
+3	детство	детство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Абакане	Абакан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+7	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 24
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = нет / не всё моё детство прошло в Абакане потому что / кроме Абакана я жила / в городе Новосибирске в городе Красноярске в городе Москве
+1	нет	нет	PART	_	_	7	parataxis	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	всё	все	DET	_	Case=Nom|Gender=Neut|Number=Sing	6	det	_	_
+5	моё	мое	DET	_	_	6	det	_	_
+6	детство	детство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	Абакане	Абакан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+10	потому	потому	ADV	_	Degree=Pos	16	mark	_	_
+11	что	что	SCONJ	_	_	10	fixed	_	_
+12	/	/	PUNCT	_	_	16	punct	_	_
+13	кроме	кроме	ADP	_	_	14	case	_	_
+14	Абакана	Абакан	PROPN	_	Animacy=Inam|Case=Gen|Gender=Masc|Number=Sing	16	obl	_	_
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	16	nsubj	_	_
+16	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+17	/	/	PUNCT	_	_	19	punct	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+20	Новосибирске	Новосибирск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	appos	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	_
+23	Красноярске	Красноярск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	appos	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	nmod	_	_
+26	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	appos	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 26
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = ааа в посёлке Курагино в посёлке Шушенском в городе Черногорске / и самый большой период с / одиннадцати лет / до / семнадцати я жила / в / Уральском / ну как Уральском / территориально Сибирском но
+1	ааа	ааа	X	_	_	_	_	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	посёлке	посёлок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	Курагино	Курагино	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	посёлке	посёлок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+7	Шушенском	Шушенское	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	amod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+10	Черногорске	Черногорск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+11	/	/	PUNCT	_	_	10	punct	_	_
+12	и	и	CCONJ	_	_	15	cc	_	_
+13	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+16	с	с	ADP	_	_	19	case	_	_
+17	/	/	PUNCT	_	_	19	punct	_	_
+18	одиннадцати	одиннадцать	NUM	_	Case=Gen	19	nummod	_	_
+19	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+20	/	/	PUNCT	_	_	25	punct	_	_
+21	до	до	ADP	_	_	23	case	_	_
+22	/	/	PUNCT	_	_	23	punct	_	_
+23	семнадцати	семнадцать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	_
+24	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	25	nsubj	_	_
+25	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+26	/	/	PUNCT	_	_	25	punct	_	_
+27	в	в	ADP	_	_	36	case	_	_
+28	/	/	PUNCT	_	_	36	punct	_	_
+29	Уральском	уральский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+30	/	/	PUNCT	_	_	33	punct	_	_
+31	ну	ну	PART	_	_	32	discourse	_	_
+32	как	как	SCONJ	_	_	33	mark	_	_
+33	Уральском	уральский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	29	obl	_	_
+34	/	/	PUNCT	_	_	36	punct	_	_
+35	территориально	территориально	ADV	_	Degree=Pos	36	obl	_	_
+36	Сибирском	Сибирский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	36	 amod	_	_
+37	но	но	CCONJ	_	_	25	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = административно-территориально в Уральском / городе Тюмени
+1	административно-территориально	административно-территориально	ADV	_	Degree=Pos	7	obl	_	_
+2	в	в	ADP	_	_	7	case	_	_
+3	Уральском	уральский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+4	/	/	PUNCT	_	_	7	punct	_	_
+5	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	conj	_	_
+6	Тюмени	Тюмень	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = городе нефтяников
+1	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+2	нефтяников	нефтяник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 33
+# text = и газовиков
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	газовиков	газовик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = ну где Собянин раньше мэром был а потом уже сюда приехал в Москву
+1	ну	ну	PART	_	_	11	parataxis	_	_
+2	где	где	ADV	_	Degree=Pos	11	advmod	_	_
+3	Собянин	Собянин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+4	раньше	раньше	ADV	_	Degree=Cmp	11	advmod	_	_
+5	мэром	мэр	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+7	а	а	CCONJ	_	_	11	cc	_	_
+8	потом	потом	ADV	_	Degree=Pos	11	advmod	_	_
+9	уже	уже	ADV	_	Degree=Pos	10	advmod	_	_
+10	сюда	сюда	ADV	_	Degree=Pos	11	advmod	_	_
+11	приехал	приехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 37
+# text = не Собянин молодец
+1	не	не	PART	_	_	2	advmod	_	_
+2	Собянин	Собянин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	молодец	молодец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 39
+# text = иии / у моей подруги дом
+1	иии	иии	X	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	у	у	ADP	_	_	5	case	_	_
+4	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing	5	det	_	_
+5	подруги	подруга	NOUN	_	Animacy=Amin|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+6	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 41
+# text = частный
+1	частный	частный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = был
+1	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = через забор от дома Собянина
+1	через	через	ADP	_	_	2	case	_	_
+2	забор	забор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Собянина	Собянин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 46
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 47
+# text = и мы не знали что там жил Собянин
+1	и	и	CCONJ	_	_	4	cc	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	что	что	PRON	_	Case=Acc	7	obj	_	_
+6	там	там	ADV	_	Degree=Pos	7	advmod	_	_
+7	жил	жить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+8	Собянин	Собянин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 48
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = и воровали у него яблоки по ночам
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	воровали	воровать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+5	яблоки	яблоко	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+6	по	по	ADP	_	_	7	case	_	_
+7	ночам	ночь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	2	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 51
+# text = ну представляете типа мы с подругой / нам по двенадцать лет ставим лестницу ночью
+1	ну	ну	PART	_	_	2	parataxis	_	_
+2	представляете	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	типа	типа	PART	_	_	3	parataxis	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	подругой	подруга	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+7	/	/	PUNCT	_	_	12	punct	_	_
+8	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	12	iobj	_	_
+9	по	по	ADP	_	_	11	case	_	_
+10	двенадцать	двенадцать	NUM	_	Case=Acc	11	nummod:gov	_	_
+11	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	_
+12	ставим	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+13	лестницу	лестница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 53
+# text = и таскаем яблоки с участка Собянина
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	таскаем	таскать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	яблоки	яблоко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	участка	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+6	Собянина	Собянин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 54
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 55
+# text = вот такая история
+1	вот	вот	PART	_	_	2	advmod	_	_
+2	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
+3	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 56
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 57
+# text = ну а нечего деревья так близко к заборам сажать / <noindex>[нрзб]<noindex>людей смущать так / кошмар какой
+1	ну	ну	PART	_	_	2	parataxis	_	_
+2	а	а	CCONJ	_	_	6	cc	_	_
+3	нечего	нечего	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	деревья	дерево	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	так	так	ADV	_	Degree=Pos	6	advmod	_	_
+6	близко	близко	ADV	_	Degree=Pos	0	root	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	заборам	забор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	obl	_	_
+9	сажать	сажать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	<noindex	<noindex	X	_	_	_	_	_	SpaceAfter=No
+12	>[	>[	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	нрзб	нрзб	_	_	_	_	_	_	_	
+14	]	]	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
+16	смущать	смущать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	csubj	_	_
+17	так	так	ADV	_	Degree=Pos	16	advmod	_	_
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	кошмар	кошмар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+20	какой	какой	DET	_	Case=Gen|Gender=Fem|Number=Sing	19	det	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 58
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 59
+# text = я сменила
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	сменила	сменить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 60
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = шесть школ
+1	шесть	шесть	NUM	_	Case=Nom	2	nummod:gov	_	_
+2	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 62
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 63
+# text = я сменила пять школ и шесть классов
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	сменила	сменить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	пять	пять	NUM	_	Case=Acc	4	nummod:gov	_	_
+4	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	obl	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	шесть	шесть	NUM	_	Case=Nom	7	nummod:gov	_	_
+7	классов	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 64
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 65
+# text = ааа
+1	ааа	ааа	X _	_	_	_	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 66
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 67
+# text = ааа первая моя школа была в городе Черногорске я проучилась там всю начальную школу
+1	ааа	ааа	X	_	_	_	_	_	_	_
+2	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+8	Черногорске	Черногорск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	appos	_	_
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	10	nsubj	_	_
+10	проучилась	проучиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	там	там	ADV	_	Degree=Pos	10	advmod	_	_
+12	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	14	det	_	_
+13	начальную	начальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 68
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 69
+# text = в этой же школе я / начала учиться в другом классе в пятом классе
+1	в	в	ADP	_	_	4	case	_	_
+2	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
+6	/	/	PUNCT	_	_	5	punct	_	_
+7	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	xcomp	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	другом	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	пятом	пятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 70
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = остатки пятого класса я закончила в Тюменской школе номер четырнадцать
+1	остатки	остатки	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	пятого	пятый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	класса	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	Тюменской	Тюменский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+9	номер	номер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	obj	_	_
+10	четырнадцать	четырнадцать	NUM	_	Case=Nom	9	nummod:gov	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 72
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 73
+# text = оттуда я перешла в спортивный класс
+1	оттуда	оттуда	ADV	_	Degree=Pos	3	advmod	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+3	перешла	перейти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	спортивный	спортивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	класс	класс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 74
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 75
+# text = шестьдесят четвёртой школы / города Тюмени
+1	шестьдесят	шестьдесят	NUM	_	Case=Nom	3	nummod:gov	_	_
+2	четвёртой	четвёртый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	Тюмени	Тюмень	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 76
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 77
+# text = и проучилась там до конца средней школы / до девятого класса
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	проучилась	проучиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	там	там	ADV	_	Degree=Pos	2	advmod	_	_
+4	до	до	ADP	_	_	5	case	_	_
+5	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+6	средней	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	/	/	PUNCT	_	_	11	punct	_	_
+9	до	до	ADP	_	_	11	case	_	_
+10	девятого	девятый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	класса	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 78
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 79
+# text = в спортивном классе с полностью отбитыми одноклассниками
+1	в	в	ADP	_	_	3	case	_	_
+2	спортивном	спортивный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+4	с	с	ADP	_	_	7	case	_	_
+5	полностью	полностью	ADV	_	Degree=Pos	6	advmod	_	_
+6	отбитыми	отбитый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	7	acl	_	_
+7	одноклассниками	одноклассник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 80
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 81
+# text = борцы
+1	борцы	борец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 82
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 83
+# text = кстати у меня есть КМС по / борьбе
+1	кстати	кстати	ADV	_	Degree=Pos	4	advmod	_	_
+2	у	у	ADP	_	_	3	case	_	_
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	4	obl	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	КМС	КМС	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	по	по	ADP	_	_	8	case	_	_
+7	/	/	PUNCT	_	_	8	punct	_	_
+8	борьбе	борьба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 84
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 85
+# text = по дзюдо
+1	по	по	ADP	_	_	2	case	_	_
+2	дзюдо	дзюдо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 86
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 87
+# text = вот
+1	вот	вот	PART	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 88
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 89
+# text = ааа / в десятом классе я поступила в / самую
+1	ааа	аа	 X	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	десятом	десятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
+7	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	/	/	PUNCT	_	_	7	obl	_	_
+10	самую	самый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 90
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 91
+# text = ну можно назвать элитную платную гимназию Тюменской области / в Академическую Гимназию при Тюменском Государственном / Университете / аа...
+1	ну	ну	PART	_	_	2	parataxis	_	_
+2	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+3	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+4	элитную	элитный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+5	платную	платный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	гимназию	гимназия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+7	Тюменской	Тюменский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	/	/	PUNCT	_	_	12	punct	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	Академическую	академический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	Гимназию	Гимназия	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+13	при	при	ADP	_	_	17	case	_	_
+14	Тюменском	Тюменский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+15	Государственном	государственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+16	/	/	PUNCT	_	_	17	punct	_	_
+17	Университете	университет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	аа	аa	X	_	_	_	_	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 92
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 93
+# text = с / университетским образованием / с системой пар / определённой системой оценивания
+1	с	с	ADP	_	_	4	case	_	_
+2	/	/	PUNCT	_	_	4	punct	_	_
+3	университетским	университетский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	образованием	образование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	_
+5	/	/	PUNCT	_	_	4	punct	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	_
+8	пар	пара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+9	/	/	PUNCT	_	_	11	punct	_	_
+10	определённой	определенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	_
+12	оценивания	оценивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 94
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 95
+# text = и / вообще
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	/	/	PUNCT	_	_	0	root	_	_
+3	вообще	вообще	ADV	_	Degree=Pos	2	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 96
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 97
+# text = ну
+1	ну	ну	PART	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 98
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 99
+# text = школа которая намного отличалась от всех остальных моих школ к...
+1	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	которая	который	PRON	_	Case=Nom	1	nmod	_	_
+3	намного	намного	ADV	_	Degree=Pos	4	advmod	_	_
+4	отличалась	отличаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	от	от	ADP	_	_	9	case	_	_
+6	всех	весь	DET	_	Case=Gen|Number=Plur	9	det	_	_
+7	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+8	моих	мой	DET	_	Case=Gen|Number=Plur	9	det	_	_
+9	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+10	к	к	ADP	_	_	9	case	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 100
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 101
+# text = в которых я была раньше
+1	в	в	ADP	_	_	2	case	_	_
+2	которых	который	PRON	_	Case=Loc	4	obl	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+4	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	раньше	раньше	ADV	_	Degree=Cmp	4	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 102
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 103
+# text = в семнадцатом году я снова переехала с семьёй в Хакассию
+1	в	в	ADP	_	_	3	case	_	_
+2	семнадцатом	семнадцатый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+5	снова	снова	ADV	_	Degree=Pos	6	advmod	_	_
+6	переехала	переехать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	семьёй	семья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	Хакассию	Хакассия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 104
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 105
+# text = потому что в отце взыграли национальные чувства и он очень захотел вернуться на родину / мы с мамой такие / ладно
+1	потому	потому	ADV	_	Degree=Pos	5	mark	_	_
+2	что	что	SCONJ	_	_	1	fixed	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	отце	отец	NOUN	_	Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+5	взыграли	взыграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	национальные	национальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	чувства	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+10	очень	очень	ADV	_	Degree=Pos	11	advmod	_	_
+11	захотел	захотеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+12	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	родину	родина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+15	/	/	PUNCT	_	_	19	punct	_	_
+16	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	19	nsubj	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	мамой	мама	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	19	obl	_	_
+19	такие	такой	DET	_	Case=Nom|Number=Plur	11	det	_	_
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	ладно	ладно	PART	_	_	19	parataxis	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 106
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 107
+# text = чё нет
+1	чё	че	ADV	_	Degree=Pos	1	mark	_	_
+2	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 108
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 109
+# text = ну вот / и тут я поступила в
+1	ну	ну	PART	_	_	7	parataxis	_	_
+2	вот	вот	PART	_	_	7	advmod	_	_
+3	/	/	PUNCT	_	_	7	punct	_	_
+4	и	и	PART	_	_	5	advmod	_	_
+5	тут	тут	ADV	_	Degree=Pos	7	advmod	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
+7	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	в	в	ADP	_	_	7	case	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 110
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 111
+# text = в восьмую гимназию
+1	в	в	ADP	_	_	3	case	_	_
+2	восьмую	восьмой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	гимназию	гимназия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 112
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 113
+# text = города Абакана
+1	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+2	Абакана	Абакан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 114
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 115
+# text = в гуманитарный...
+1	в	в	ADP	_	_	2	case	_	_
+2	гуманитарный	гуманитарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 116
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 117
+# text = социально-гуманитарный класс / на самом деле все мои профильные классы были социально-гуманитарными / потому что я / очень люблю историю и всегда / причисляла себя / ну говорила что я историк / но мой завуч говорил что я не историк я просто гуманитарий
+1	социально-гуманитарный	социально-гуманитарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+2	класс	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+3	/	/	PUNCT	_	_	4	punct	_	_
+4	на	на	ADP	_	_	8	case	_	_
+5	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+6	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	_
+7	все	весь	DET	_	Case=Nom|Number=Plur	12	det	_	_
+8	мои	мой	DET	_	Case=Nom|Number=Plur	12	det	_	_
+9	профильные	профильный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+10	классы	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
+12	социально-гуманитарными	социально-гуманитарный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	0	root	_	_
+13	/	/	PUNCT	_	_	23	punct	_	_
+14	потому	потому	ADV	_	Degree=Pos	23	mark	_	_
+15	что	что	SCONJ	_	_	18	fixed	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	23	nsubj	_	_
+17	/	/	PUNCT	_	_	23	punct	_	_
+18	очень	очень	ADV	_	Degree=Pos	23	advmod	_	_
+19	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
+20	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+21	и	и	CCONJ	_	_	28	cc	_	_
+22	всегда	всегда	ADV	_	Degree=Pos	28	advmod	_	_
+23	/	/	PUNCT	_	_	28	punct	_	_
+24	причисляла	причислять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	_
+25	себя	себя	PRON	_	Case=Acc	28	obj	_	_
+26	/	/	PUNCT	_	_	32	punct	_	_
+27	ну	ну	PART	_	_	32	parataxis	_	_
+28	говорила	говорить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	parataxis	_	_
+29	что	что	PRON	_	Case=Acc	40	obj	_	_
+30	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	40	nsubj	_	_
+31	историк	историк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
+32	/	/	PUNCT	_	_	40	punct	_	_
+33	но	но	CCONJ	_	_	40	cc	_	_
+34	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	39	det	_	_
+35	завуч	завуч	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
+36	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	32	parataxis	_	_
+37	что	что	PRON	_	Case=Acc	40	obj	_	_
+38	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	47	nsubj	_	_
+39	не	не	PART	_	_	44	advmod	_	_
+40	историк	историк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	47	nmod	_	_
+41	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	47	nsubj	_	_
+42	просто	просто	PART	_	_	47	advmod	_	_
+43	гуманитарий	гуманитарий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 118
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 119
+# text = на самом деле я знаю что она хотела сказать ты не историк ты просто говно
+1	на	на	ADP	_	_	3	case	_	_
+2	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	что	что	SCONJ	_	_	8	mark	_	_
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
+8	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+9	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	15	nsubj	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	историк	историк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	obl	_	_
+13	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	15	nsubj	_	_
+14	просто	просто	PART	_	_	15	advmod	_	_
+15	говно	говно	NOUN _	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 120
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 121
+# text = но что поделать
+1	но	но	CCONJ	_	_	3	cc	_	_
+2	что	что	PRON	_	Case=Acc	3	obj	_	_
+3	поделать	поделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 122
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 123
+# text = нет / у меня были / прекрасные отношения практически со всеми м / преподавателями / одноклассниками / и администрацией практически всех школ но с девятого класса / меня отчислили
+1	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	/	/	PUNCT	_	_	5	punct	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	5	obl	_	_
+5	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	/	/	PUNCT	_	_	8	punct	_	_
+7	прекрасные	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+9	практически	практически	ADV	_	Degree=Pos	12	obl	_	_
+10	со	с	ADP	_	_	12	case	_	_
+11	всеми	весь	DET	_	Case=Ins|Number=Plur	12	det	_	_
+12	м	м	X	_	_	_	_	_	_
+13	/	/	PUNCT	_	_	14	punct	_	_
+14	преподавателями	преподаватель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	nmod	_	_
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	одноклассниками	одноклассник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	14	nmod	_	_
+17	/	/	PUNCT	_	_	19	punct	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	администрацией	администрация	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	16	conj	_	_
+20	практически	практически	ADV	_	Degree=Pos	21	obl	_	_
+21	всех	весь	DET	_	Case=Gen|Number=Plur	22	det	_	_
+22	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	obl	_	_
+23	но	но	CCONJ	_	_	29	cc	_	_
+24	с	с	ADP	_	_	26	case	_	_
+25	девятого	девятый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	класса	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	obl	_	_
+27	/	/	PUNCT	_	_	29	punct	_	_
+28	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	29	obj	_	_
+29	отчислили	отчислить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 124
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 125
+# text = сейчас расскажу эту замечательную очень интересную историю
+1	сейчас	сейчас	ADV	_	Degree=Pos	2	advmod	_	_
+2	расскажу	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+3	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
+4	замечательную	замечательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+5	очень	очень	ADV	_	Degree=Pos	6	obl	_	_
+6	интересную	интересный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 126
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 127
+# text = я
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 128
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 129
+# text = атеистка / и я не п...
+1	атеистка	атеистка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	и	и	CCONJ	_	_	6	cc	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	п	п	X	_	_	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 130
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 131
+# text = не отношу себя ни к какому религиозному течению или верованию
+1	не	не	PART	_	_	2	advmod	_	_
+2	отношу	относить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	себя	себя	PRON	_	Case=Acc	2	obj	_	_
+4	ни	ни	PART	_	_	8	advmod	_	_
+5	к	к	ADP	_	_	8	case	_	_
+6	какому	какой	DET	_	Case=Dat|Gender=Neut|Number=Sing	8	det	_	_
+7	религиозному	религиозный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	течению	течение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+9	или	или	CCONJ	_	_	10	cc	_	_
+10	верованию	верование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 132
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 133
+# text = но
+1	но	но	CCONJ	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 134
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 135
+# text = в девятом классе
+1	в	в	ADP	_	_	3	case	_	_
+2	девятом	девятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 136
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 137
+# text = ааа / к нам в школу пришёл
+1	ааа	аа	X	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	1	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+7	пришёл	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 138
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 139
+# text = сотрудник какой-то религиозной г...
+1	сотрудник	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	какой-то	какой-то	DET	_	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
+3	религиозной	религиозный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	г.	X	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 140
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 141
+# text = организации / ну то есть это даже не от РПЦ было а просто какая-то рандомная религиозная организация
+1	организации	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	ну	ну	PART	_	_	11	parataxis	_	_
+4	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	mark	_	_
+5	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	fixed	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+7	даже	даже	PART	_	_	8	advmod	_	_
+8	не	не	PART	_	_	10	advmod	_	_
+9	от	от	ADP	_	_	10	case	_	_
+10	РПЦ	РПЦ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+11	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	а	а	CCONJ	_	_	17	cc	_	_
+13	просто	просто	PART	_	_	17	advmod	_	_
+14	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	17	det	_	_
+15	рандомная	рандомный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+16	религиозная	религиозный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 142
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 143
+# text = в актовом зале собрали / все девятые / десятые и одиннадцатые классы / а этот мужчина начал нам рассказывать что аборты
+1	в	в	ADP	_	_	3	case	_	_
+2	актовом	актовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	собрали	собрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	/	/	PUNCT	_	_	4	punct	_	_
+6	все	весь	DET	_	Case=Nom|Number=Plur	12	det	_	_
+7	девятые	девятый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+8	/	/	PUNCT	_	_	9	punct	_	_
+9	десятые	десятый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	conj	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	одиннадцатые	одиннадцатый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	conj	_	_
+12	классы	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+13	/	/	PUNCT	_	_	17	punct	_	_
+14	а	а	CCONJ	_	_	17	cc	_	_
+15	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	16	det	_	_
+16	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+17	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+18	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	17	iobj	_	_
+19	рассказывать	рассказать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+20	что	что	SCONJ	_	_	21	mark	_	_
+21	аборты	аборт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 144
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 145
+# text = аборты это грех
+1	аборты	аборт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nmod	_	_
+2	это	это	PART	_	_	3	nsubj	_	_
+3	грех	грех	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 146
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 147
+# text = рожать вот нужно рожать
+1	рожать	рожать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+2	вот	вот	PART	_	_	1	advmod	_	_
+3	нужно	нужно	PRAEDIC	_	_	0	root	_	_
+4	рожать	рожать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 148
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 149
+# text = как он говорил дал бог зайку даст и лужайку
+1	как	как	SCONJ	_	_	4	mark	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+3	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+4	дал	дать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	бог	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	зайку	зайка	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
+7	даст	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+8	и	и	PART	_	_	9	advmod	_	_
+9	лужайку	лужайка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 150
+# text = @sgb@
+1	@sgb@	@sgb@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 151
+# text = понимаете
+1	понимаете	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
+
